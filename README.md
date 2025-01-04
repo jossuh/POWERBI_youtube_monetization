@@ -1,6 +1,6 @@
 # Contenido mejor monetizado en YouTube
 
-![banner](dashboard.png)
+![banner](dashboard.jpg)
 
 ## Description
 
